@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tyler! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.youtube.com/channel/UC2Wqkf-uDOizVb-6_Hl04BA">YouTuber</a></h1>
+<h1>Hi, I'm Tyler! <br/><a href="https://github.com/tbarron1996">Programmer</a>, <a href="https://www.youtube.com/channel/UC2Wqkf-uDOizVb-6_Hl04BA/featured">YouTuber</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
