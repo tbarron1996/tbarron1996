@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Security</b>
+  - [Nessus Home Lab](https://github.com/tbarron1996/NessusHomeLab)
 
 <h2>📺 YouTube Videos</h2>
 
