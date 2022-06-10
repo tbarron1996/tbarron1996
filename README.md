@@ -4,6 +4,7 @@
 
 - <b>Security</b>
   - [Nessus Home Lab](https://github.com/tbarron1996/NessusHomeLab)
+  - [File Integrity Monitor](https://github.com/tbarron1996/FIM)
 
 <h2>📺 YouTube Videos</h2>
 
